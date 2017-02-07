@@ -1,0 +1,11 @@
+.CartItem-count {
+	border: 1px;
+	padding: 1px;
+}
+
+.CartItem-addOne, .CartItem-removeOne {
+	border: 1px;
+	padding: 5px 10px;
+	
+}
+
